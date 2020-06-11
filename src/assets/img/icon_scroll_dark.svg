@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="30px" viewBox="0 0 17 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_scroll_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-535.000000, -1415.000000)">
+        <g id="assets" transform="translate(50.000000, 1303.000000)">
+            <g id="icon_scroll_dark" transform="translate(486.000000, 113.000000)">
+                <circle id="Oval" stroke="#C9B2A4" cx="7.5" cy="7.5" r="8"></circle>
+                <rect id="underline" fill="#9F8575" x="7" y="8" width="1" height="20"></rect>
+                <polyline id="Page-1" stroke="#9F8575" transform="translate(7.500000, 26.000000) rotate(-225.000000) translate(-7.500000, -26.000000) " points="5.73223305 24.232233 9.26776695 24.232233 9.26776695 27.767767"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
